@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1522431726 source:c:\users\localadmin\desktop\homework2\main.cpp
+	<iostream>
+
+1522438365 source:c:\users\localadmin\desktop\lab2\part2\dlcirlist.cpp
+	"DLCirList.h"
+	<iostream>
+	<stdio.h>
+	<string>
+
+1522437754 c:\users\localadmin\desktop\lab2\part2\dlcirlist.h
+	<stdio.h>
+	<string>
+	<iostream>
+
+1522438181 source:c:\users\localadmin\desktop\lab2\part2\main.cpp
+	<iostream>
+	"DLCirList.h"
+
